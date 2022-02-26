@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "M5 A3 Capital Gain Problem", "M5 A3 Capital Gain Problem\M5 A3 Capital Gain Problem.pyproj", "{2F90AD40-3BA5-408C-A267-F3B05FBA80F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F90AD40-3BA5-408C-A267-F3B05FBA80F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F90AD40-3BA5-408C-A267-F3B05FBA80F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC95CB00-69C9-4758-BE9F-D955E300D531}
+	EndGlobalSection
+EndGlobal
